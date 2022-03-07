@@ -85,7 +85,7 @@ var fight = function(enemy) {
   }
   // switch turn order for next round
   isPlayerTurn = !isPlayerTurn;
-}
+  }
 };
 
 // fight each enemy-robot by looping over them and fighting them one at a time
